@@ -1,29 +1,47 @@
 <div align="center">
 
-# 📚 MAE Reklam — Animasyonlu Kitap Sunum
+# ✨ MAE Reklam
 
-**CSS 3D book flip animasyonlu ajans sunumu**
+**Animasyonlu Sunum · Animasyonlu Kitap Sunum**
 
-[![Live Demo](https://img.shields.io/badge/🌐_Canlı_Demo-MAE_Sunum-6c63ff?style=for-the-badge)](https://mae.com.tr/sunum/)
+<img src="https://bugrayetis.github.io/yeni/assets/covers/mae-reklam.jpg" width="100%" alt="MAE Reklam ön izleme" />
 
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<br/><br/>
+
+<a href="https://bugrayetis.github.io/mevcut.html#proje-mae-reklam"><img src="https://img.shields.io/badge/🔍_Açıklama,_Ön_İzleme_ve_İçerik_İçin-Portfolyoma_Göz_At_→-6c63ff?style=for-the-badge" alt="Portfolyoda incele" /></a>
 
 </div>
 
 ---
 
-## ✨ Proje Hakkında
+## 📌 Proje Hakkında
 
-MAE Reklam Ajansı tanıtım sunumu, interaktif kitap çevirme animasyonu ile ajansın hizmetlerini ve projelerini sergiler. CSS 3D transform ile gerçekçi sayfa çevirme efekti.
+MAE Reklam Ajansı için geliştirdiğim interaktif dijital sunum. GSAP animasyonları, 3D CSS dönüşümleri ve scroll-driven geçişlerle kitap sayfası gibi açılan yaratıcı bir sunum deneyimi sunuyor.
+
+| | |
+|---|---|
+| **Kategori** | Animasyonlu Sunum |
+| **Geliştirici** | Buğra Yetiş · MAE Reklam Ajansı |
 
 ## 🛠️ Kullanılan Teknolojiler
 
-- **CSS 3D Transforms** — Gerçekçi kitap çevirme
-- **JavaScript** — Sayfa interaksiyonları
-- **Creative Coding** — Yaratıcı sunum deneyimi
+![GSAP](https://img.shields.io/badge/GSAP-1f2233?style=flat-square)
+![CSS 3D](https://img.shields.io/badge/CSS_3D-1f2233?style=flat-square)
+![Scroll Animasyon](https://img.shields.io/badge/Scroll_Animasyon-1f2233?style=flat-square)
+![İnteraktif](https://img.shields.io/badge/%C4%B0nteraktif-1f2233?style=flat-square)
 
-## 🔗 Bağlantılar
+## 🔒 Kaynak Kod
 
-- 🌐 **Canlı:** [MAE Sunum](https://mae.com.tr/sunum/)
-- 👤 **Geliştirici:** [Buğra Yetiş](https://bugrayetis.github.io)
+Bu repo yalnızca projenin tanıtımını içerir. Müşteri gizliliği ve telif hakları nedeniyle kaynak kod paylaşılmıyor.
+Projeyi canlı görmek, ekran görüntülerine ve detaylarına bakmak için **[portfolyomdaki proje sayfasına](https://bugrayetis.github.io/mevcut.html#proje-mae-reklam)** göz atın.
+
+---
+
+<div align="center">
+
+<a href="https://bugrayetis.github.io/mevcut.html#proje-mae-reklam"><img src="https://img.shields.io/badge/🌐_Portfolyoda_İncele-bugrayetis.github.io-6c63ff?style=for-the-badge" /></a>
+<a href="https://github.com/BugraYetis"><img src="https://img.shields.io/badge/👤_Tüm_Projeler-BugraYetis-181717?style=for-the-badge&logo=github" /></a>
+
+<sub>Buğra Yetiş — Mid Web Developer & Grafik Tasarımcı · İstanbul</sub>
+
+</div>
