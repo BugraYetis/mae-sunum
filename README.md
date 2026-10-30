@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ MAE Reklam
+# 📚 MAE Reklam
 
 **Animasyonlu Sunum · Animasyonlu Kitap Sunum**
 
